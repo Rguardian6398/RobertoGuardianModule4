@@ -1,0 +1,12 @@
+/Users/robertoguardian154gmail.com/Desktop/Coding Assignments/RobertoGuardianModule5/RobertoGuardianModule5/obj/Debug/netcoreapp3.1/RobertoGuardianModule5.csprojAssemblyReference.cache
+/Users/robertoguardian154gmail.com/Desktop/Coding Assignments/RobertoGuardianModule5/RobertoGuardianModule5/obj/Debug/netcoreapp3.1/RobertoGuardianModule5.AssemblyInfoInputs.cache
+/Users/robertoguardian154gmail.com/Desktop/Coding Assignments/RobertoGuardianModule5/RobertoGuardianModule5/obj/Debug/netcoreapp3.1/RobertoGuardianModule5.AssemblyInfo.cs
+/Users/robertoguardian154gmail.com/Desktop/Coding Assignments/RobertoGuardianModule5/RobertoGuardianModule5/obj/Debug/netcoreapp3.1/RobertoGuardianModule5.csproj.CoreCompileInputs.cache
+/Users/robertoguardian154gmail.com/Desktop/Coding Assignments/RobertoGuardianModule5/RobertoGuardianModule5/bin/Debug/netcoreapp3.1/RobertoGuardianModule5.deps.json
+/Users/robertoguardian154gmail.com/Desktop/Coding Assignments/RobertoGuardianModule5/RobertoGuardianModule5/bin/Debug/netcoreapp3.1/RobertoGuardianModule5.runtimeconfig.json
+/Users/robertoguardian154gmail.com/Desktop/Coding Assignments/RobertoGuardianModule5/RobertoGuardianModule5/bin/Debug/netcoreapp3.1/RobertoGuardianModule5.runtimeconfig.dev.json
+/Users/robertoguardian154gmail.com/Desktop/Coding Assignments/RobertoGuardianModule5/RobertoGuardianModule5/bin/Debug/netcoreapp3.1/RobertoGuardianModule5.dll
+/Users/robertoguardian154gmail.com/Desktop/Coding Assignments/RobertoGuardianModule5/RobertoGuardianModule5/bin/Debug/netcoreapp3.1/RobertoGuardianModule5.pdb
+/Users/robertoguardian154gmail.com/Desktop/Coding Assignments/RobertoGuardianModule5/RobertoGuardianModule5/obj/Debug/netcoreapp3.1/RobertoGuardianModule5.dll
+/Users/robertoguardian154gmail.com/Desktop/Coding Assignments/RobertoGuardianModule5/RobertoGuardianModule5/obj/Debug/netcoreapp3.1/RobertoGuardianModule5.pdb
+/Users/robertoguardian154gmail.com/Desktop/Coding Assignments/RobertoGuardianModule5/RobertoGuardianModule5/obj/Debug/netcoreapp3.1/RobertoGuardianModule5.genruntimeconfig.cache

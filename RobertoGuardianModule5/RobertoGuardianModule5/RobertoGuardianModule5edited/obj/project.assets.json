@@ -1,0 +1,65 @@
+{
+  "version": 3,
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {}
+  },
+  "libraries": {},
+  "projectFileDependencyGroups": {
+    ".NETCoreApp,Version=v3.1": []
+  },
+  "packageFolders": {
+    "/Users/robertoguardian154gmail.com/.nuget/packages/": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "/Users/robertoguardian154gmail.com/Desktop/Coding Assignments/RobertoGuardianModule5edited/RobertoGuardianModule5edited/RobertoGuardianModule5edited.csproj",
+      "projectName": "RobertoGuardianModule5edited",
+      "projectPath": "/Users/robertoguardian154gmail.com/Desktop/Coding Assignments/RobertoGuardianModule5edited/RobertoGuardianModule5edited/RobertoGuardianModule5edited.csproj",
+      "packagesPath": "/Users/robertoguardian154gmail.com/.nuget/packages/",
+      "outputPath": "/Users/robertoguardian154gmail.com/Desktop/Coding Assignments/RobertoGuardianModule5edited/RobertoGuardianModule5edited/obj/",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "/Users/robertoguardian154gmail.com/.config/NuGet/NuGet.Config"
+      ],
+      "originalTargetFrameworks": [
+        "netcoreapp3.1"
+      ],
+      "sources": {
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "projectReferences": {}
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "netcoreapp3.1": {
+        "targetAlias": "netcoreapp3.1",
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/5.0.102/RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}

@@ -1,0 +1,12 @@
+/Users/robertoguardian154gmail.com/Desktop/Coding Assignments/RobertoGuardianModule6/RobertoGuardianModule6/bin/Debug/netcoreapp3.1/RobertoGuardianModule6.deps.json
+/Users/robertoguardian154gmail.com/Desktop/Coding Assignments/RobertoGuardianModule6/RobertoGuardianModule6/bin/Debug/netcoreapp3.1/RobertoGuardianModule6.runtimeconfig.json
+/Users/robertoguardian154gmail.com/Desktop/Coding Assignments/RobertoGuardianModule6/RobertoGuardianModule6/bin/Debug/netcoreapp3.1/RobertoGuardianModule6.runtimeconfig.dev.json
+/Users/robertoguardian154gmail.com/Desktop/Coding Assignments/RobertoGuardianModule6/RobertoGuardianModule6/bin/Debug/netcoreapp3.1/RobertoGuardianModule6.dll
+/Users/robertoguardian154gmail.com/Desktop/Coding Assignments/RobertoGuardianModule6/RobertoGuardianModule6/bin/Debug/netcoreapp3.1/RobertoGuardianModule6.pdb
+/Users/robertoguardian154gmail.com/Desktop/Coding Assignments/RobertoGuardianModule6/RobertoGuardianModule6/obj/Debug/netcoreapp3.1/RobertoGuardianModule6.csprojAssemblyReference.cache
+/Users/robertoguardian154gmail.com/Desktop/Coding Assignments/RobertoGuardianModule6/RobertoGuardianModule6/obj/Debug/netcoreapp3.1/RobertoGuardianModule6.AssemblyInfoInputs.cache
+/Users/robertoguardian154gmail.com/Desktop/Coding Assignments/RobertoGuardianModule6/RobertoGuardianModule6/obj/Debug/netcoreapp3.1/RobertoGuardianModule6.AssemblyInfo.cs
+/Users/robertoguardian154gmail.com/Desktop/Coding Assignments/RobertoGuardianModule6/RobertoGuardianModule6/obj/Debug/netcoreapp3.1/RobertoGuardianModule6.csproj.CoreCompileInputs.cache
+/Users/robertoguardian154gmail.com/Desktop/Coding Assignments/RobertoGuardianModule6/RobertoGuardianModule6/obj/Debug/netcoreapp3.1/RobertoGuardianModule6.dll
+/Users/robertoguardian154gmail.com/Desktop/Coding Assignments/RobertoGuardianModule6/RobertoGuardianModule6/obj/Debug/netcoreapp3.1/RobertoGuardianModule6.pdb
+/Users/robertoguardian154gmail.com/Desktop/Coding Assignments/RobertoGuardianModule6/RobertoGuardianModule6/obj/Debug/netcoreapp3.1/RobertoGuardianModule6.genruntimeconfig.cache

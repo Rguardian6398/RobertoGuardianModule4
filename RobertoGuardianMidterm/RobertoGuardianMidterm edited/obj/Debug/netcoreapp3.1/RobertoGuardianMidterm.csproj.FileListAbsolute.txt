@@ -1,0 +1,12 @@
+/Users/robertoguardian154gmail.com/Desktop/Coding Assignments/RobertoGuardianMidterm/RobertoGuardianMidterm/bin/Debug/netcoreapp3.1/RobertoGuardianMidterm.deps.json
+/Users/robertoguardian154gmail.com/Desktop/Coding Assignments/RobertoGuardianMidterm/RobertoGuardianMidterm/bin/Debug/netcoreapp3.1/RobertoGuardianMidterm.runtimeconfig.json
+/Users/robertoguardian154gmail.com/Desktop/Coding Assignments/RobertoGuardianMidterm/RobertoGuardianMidterm/bin/Debug/netcoreapp3.1/RobertoGuardianMidterm.runtimeconfig.dev.json
+/Users/robertoguardian154gmail.com/Desktop/Coding Assignments/RobertoGuardianMidterm/RobertoGuardianMidterm/bin/Debug/netcoreapp3.1/RobertoGuardianMidterm.dll
+/Users/robertoguardian154gmail.com/Desktop/Coding Assignments/RobertoGuardianMidterm/RobertoGuardianMidterm/bin/Debug/netcoreapp3.1/RobertoGuardianMidterm.pdb
+/Users/robertoguardian154gmail.com/Desktop/Coding Assignments/RobertoGuardianMidterm/RobertoGuardianMidterm/obj/Debug/netcoreapp3.1/RobertoGuardianMidterm.csprojAssemblyReference.cache
+/Users/robertoguardian154gmail.com/Desktop/Coding Assignments/RobertoGuardianMidterm/RobertoGuardianMidterm/obj/Debug/netcoreapp3.1/RobertoGuardianMidterm.AssemblyInfoInputs.cache
+/Users/robertoguardian154gmail.com/Desktop/Coding Assignments/RobertoGuardianMidterm/RobertoGuardianMidterm/obj/Debug/netcoreapp3.1/RobertoGuardianMidterm.AssemblyInfo.cs
+/Users/robertoguardian154gmail.com/Desktop/Coding Assignments/RobertoGuardianMidterm/RobertoGuardianMidterm/obj/Debug/netcoreapp3.1/RobertoGuardianMidterm.csproj.CoreCompileInputs.cache
+/Users/robertoguardian154gmail.com/Desktop/Coding Assignments/RobertoGuardianMidterm/RobertoGuardianMidterm/obj/Debug/netcoreapp3.1/RobertoGuardianMidterm.dll
+/Users/robertoguardian154gmail.com/Desktop/Coding Assignments/RobertoGuardianMidterm/RobertoGuardianMidterm/obj/Debug/netcoreapp3.1/RobertoGuardianMidterm.pdb
+/Users/robertoguardian154gmail.com/Desktop/Coding Assignments/RobertoGuardianMidterm/RobertoGuardianMidterm/obj/Debug/netcoreapp3.1/RobertoGuardianMidterm.genruntimeconfig.cache

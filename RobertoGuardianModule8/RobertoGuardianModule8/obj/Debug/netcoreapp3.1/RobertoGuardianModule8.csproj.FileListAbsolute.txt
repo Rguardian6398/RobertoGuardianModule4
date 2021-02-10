@@ -1,0 +1,12 @@
+/Users/robertoguardian154gmail.com/Desktop/CIS 114/RobertoGuardianModule8/RobertoGuardianModule8/bin/Debug/netcoreapp3.1/RobertoGuardianModule8.deps.json
+/Users/robertoguardian154gmail.com/Desktop/CIS 114/RobertoGuardianModule8/RobertoGuardianModule8/bin/Debug/netcoreapp3.1/RobertoGuardianModule8.runtimeconfig.json
+/Users/robertoguardian154gmail.com/Desktop/CIS 114/RobertoGuardianModule8/RobertoGuardianModule8/bin/Debug/netcoreapp3.1/RobertoGuardianModule8.runtimeconfig.dev.json
+/Users/robertoguardian154gmail.com/Desktop/CIS 114/RobertoGuardianModule8/RobertoGuardianModule8/bin/Debug/netcoreapp3.1/RobertoGuardianModule8.dll
+/Users/robertoguardian154gmail.com/Desktop/CIS 114/RobertoGuardianModule8/RobertoGuardianModule8/bin/Debug/netcoreapp3.1/RobertoGuardianModule8.pdb
+/Users/robertoguardian154gmail.com/Desktop/CIS 114/RobertoGuardianModule8/RobertoGuardianModule8/obj/Debug/netcoreapp3.1/RobertoGuardianModule8.csprojAssemblyReference.cache
+/Users/robertoguardian154gmail.com/Desktop/CIS 114/RobertoGuardianModule8/RobertoGuardianModule8/obj/Debug/netcoreapp3.1/RobertoGuardianModule8.AssemblyInfoInputs.cache
+/Users/robertoguardian154gmail.com/Desktop/CIS 114/RobertoGuardianModule8/RobertoGuardianModule8/obj/Debug/netcoreapp3.1/RobertoGuardianModule8.AssemblyInfo.cs
+/Users/robertoguardian154gmail.com/Desktop/CIS 114/RobertoGuardianModule8/RobertoGuardianModule8/obj/Debug/netcoreapp3.1/RobertoGuardianModule8.csproj.CoreCompileInputs.cache
+/Users/robertoguardian154gmail.com/Desktop/CIS 114/RobertoGuardianModule8/RobertoGuardianModule8/obj/Debug/netcoreapp3.1/RobertoGuardianModule8.dll
+/Users/robertoguardian154gmail.com/Desktop/CIS 114/RobertoGuardianModule8/RobertoGuardianModule8/obj/Debug/netcoreapp3.1/RobertoGuardianModule8.pdb
+/Users/robertoguardian154gmail.com/Desktop/CIS 114/RobertoGuardianModule8/RobertoGuardianModule8/obj/Debug/netcoreapp3.1/RobertoGuardianModule8.genruntimeconfig.cache
